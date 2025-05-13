@@ -1,0 +1,31 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #282c34;
+    color: white;
+    padding: 20px;
+  }
+  h1 {
+    color: #61dafb;
+  }
+  button {
+    background-color: #61dafb;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  button:hover {
+    background-color: #21a1f1;
+  }
+  pre {
+    background: #1e1e1e;
+    padding: 15px;
+    border-radius: 5px;
+    text-align: left;
+    display: inline-block;
+    max-width: 400px;
+  }
+  
